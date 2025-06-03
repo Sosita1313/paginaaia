@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inteligencia Artificial - Proyecto TICs</title>
+  <meta name="description" content="Exploración educativa extensa sobre la inteligencia artificial, su historia, tecnologías, aplicaciones, impactos, retos y futuro.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #0d47a1;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    section {
+      padding: 20px;
+      max-width: 1000px;
+      margin: 20px auto;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: #0d47a1;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+
+    .footer {
+      background-color: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+
+    .highlight {
+      background: #e3f2fd;
+      padding: 10px;
+      border-left: 5px solid #2196f3;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🧠 Inteligencia Artificial y sus Aplicaciones</h1>
+    <p>Capacitación en TICs - 6° "A" Turno Matutino</p>
+  </header>
+
+  <section>
+    <h2>📜 Introducción</h2>
+    <p>La <strong>Inteligencia Artificial (IA)</strong> es una de las tecnologías más influyentes del siglo XXI. Sus capacidades van desde detectar enfermedades, conducir vehículos sin intervención humana, hasta generar textos, música o arte con gran realismo. Este proyecto busca explicar en profundidad qué es, cómo funciona, dónde se aplica, sus beneficios y desafíos éticos.</p>
+    <div class="highlight">
+      La IA ya no es ciencia ficción. Es una realidad presente en nuestras casas, escuelas, hospitales y ciudades.
+    </div>
+  </section>
+
+  <section>
+    <h2>⏳ Historia de la IA</h2>
+    <p>La historia de la IA comenzó en los años 50, cuando el matemático británico Alan Turing propuso que una máquina podía "pensar". En 1956, el término “inteligencia artificial” fue acuñado oficialmente durante la Conferencia de Dartmouth.</p>
+    <ul>
+      <li><strong>1950s–1960s:</strong> Primeros programas que resolvían problemas lógicos simples.</li>
+      <li><strong>1980s:</strong> Auge de los sistemas expertos (software que imitaba decisiones humanas).</li>
+      <li><strong>2000s–2010s:</strong> Explosión del machine learning con más datos y mejores procesadores.</li>
+      <li><strong>2020s:</strong> IA generativa como ChatGPT y herramientas visuales transforman la creatividad.</li>
+    </ul>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/xtg0tcSS/IMG-20250603-WA0016.jpg" alt="IMG-20250603-WA0016" width="300" height="500"></a>
+  </section>
+
+  <section>
+    <h2>🤖 ¿Qué es la Inteligencia Artificial?</h2>
+    <p>La Inteligencia Artificial (IA) es una rama de la informática que se enfoca en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como:
+
+Aprender (a partir de datos),
+
+Razonar (tomar decisiones),
+
+Resolver problemas,
+
+Comprender lenguaje natural,
+
+Reconocer patrones (como imágenes o sonidos),
+
+y adaptarse a nuevas situaciones.
+
+La Inteligencia Artificial (IA) es la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Implica la capacidad de las máquinas para aprender, razonar, percibir y tomar decisiones, similar a como lo haría un ser humano. 
+
+".</p>
+<p>
+    <p>Existen distintos tipos de IA:</p>
+    <ul>
+      <li><strong>IA Débil:</strong> Diseñada para tareas específicas (como Siri o traductores automáticos).</li>
+      <li><strong>IA Fuerte:</strong> Aún en desarrollo. Tendría consciencia y habilidades cognitivas humanas.</li>
+    </ul>
+  <a href="https://ibb.co/F4Xcf6Hb"><img src="https://i.ibb.co/nMB4VrPs/IMG-20250603-WA0014.jpg" alt="IMG-20250603-WA0014" width="300" height="500"></a>
+  </section>
+  <section>
+    <h2>🔧 Tecnologías Clave en IA</h2>
+    <ul>
+      <li><strong>Machine Learning (ML):</strong> Algoritmos que mejoran su rendimiento con el tiempo, aprendiendo de los datos.</li>
+      <li><strong>Deep Learning:</strong> Redes neuronales artificiales que imitan al cerebro humano para procesar grandes volúmenes de información.</li>
+      <li><strong>Procesamiento de Lenguaje Natural (PLN):</strong> Permite a las máquinas comprender y generar lenguaje humano.</li>
+      <li><strong>Visión por Computadora:</strong> Permite que las IA interpreten imágenes o videos como lo haría una persona.</li>
+      <li><strong>IA en el Borde (Edge AI):</strong> Tecnología que ejecuta IA directamente en dispositivos sin depender de servidores externos.</li>
+    </ul>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/NddWZxhV/IMG-20250603-WA0012.jpg" alt="IMG-20250603-WA0012"width="300" height="500"> </a>
+  </section>
+
+  <section>
+    <h2>🌐 Aplicaciones de la Inteligencia Artificial</h2>
+    <p>Las aplicaciones de la Inteligencia Artificial (IA) son programas de software que utilizan técnicas de IA para realizar tareas específicas, desde simples hasta complejas. Estas aplicaciones se encuentran en una amplia variedad de campos, incluyendo motores de búsqueda, ciberseguridad, asistentes de voz, salud, IoT, finanzas, comercio, agricultura y más. La IA se utiliza para automatizar tareas, tomar decisiones, personalizar experiencias y mejorar la eficiencia en diversos sectores. :</p>
+    <ul>
+      <li><strong>Salud:</strong> Diagnóstico asistido por IA, análisis de radiografías, medicina personalizada.</li>
+      <li><strong>Educación:</strong> Plataformas adaptativas, corrección automática, asistentes virtuales.</li>
+      <li><strong>Agricultura:</strong> Detección de enfermedades en cultivos, predicción climática, drones inteligentes.</li>
+      <li><strong>Transporte:</strong> Vehículos autónomos, logística predictiva, rutas optimizadas.</li>
+      <li><strong>Comercio:</strong> Recomendaciones personalizadas, chatbots, análisis de mercado.</li>
+    </ul>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/nq6mhHYt/IMG-20250603-WA0015.jpg" alt="IMG-20250603-WA0015"width="300" height="500"> </a>
+  </section>
+
+  <section>
+    <h2>💼 Casos Reales de Uso</h2>
+<p>1. Atención al cliente sin esperas eternas
+La atención al cliente no tiene por qué ser un dolor de cabeza. Con las aplicaciones de la IA,  la empresas pueden ofrecer respuestas rápidas y personalizadas, optimizando cada interacción y mejorando la experiencia del cliente sin esfuerzo adicional
+
+Chatbots y asistentes virtuales
+Estas aplicaciones de la IA consisten en responder consultas 24/7, ofreciendo una atención rápida y eficiente sin descanso. Por ejemplo, KLM ha creado un chatbot llamado BlueBot que opera en Facebook Messenger para brindar asistencia al cliente. Ayuda con reserva de vuelos, cambios en itinerarios, información en tiempo real sobre el estado de los vuelos y responde preguntas frecuentes. Su impacto ha sido muy positivo, mejorando la experiencia del cliente y aliviando la carga de trabajo de los agentes humanos.</p>
+    <ul>
+      <li><strong>AlphaFold (DeepMind):</strong> Predice la estructura de proteínas con precisión casi humana.</li>
+      <li><strong>ChatGPT (OpenAI):</strong> Modelo conversacional usado en educación, redacción y soporte técnico.</li>
+      <li><strong>Tesla Autopilot:</strong> Sistema de conducción autónoma con IA en tiempo real.</li>
+      <li><strong>Watson (IBM):</strong> Asistente médico para diagnósticos complejos y análisis clínicos.</li>
+      <li><strong>Robots Atlas (Boston Dynamics):</strong> Robots humanoides capaces de desplazarse, saltar y trabajar.</li>
+    </ul>
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/pr1JvznC/IMG-20250603-WA0013.jpg" alt="IMG-20250603-WA0013"width="300" height="500"></a>
+  </section>
+
+  <section>
+    <h2>🌱 Impacto Ambiental de la IA</h2>
+    <p>El uso de la Inteligencia Artificial (IA) tiene un impacto ambiental significativo, principalmente debido a su alto consumo energético y la generación de residuos electrónicos. El entrenamiento de modelos de IA, la operación de centros de datos y la extracción de minerales para la fabricación de componentes electrónicos son actividades que contribuyen a las emisiones de gases de efecto invernadero, la contaminación del agua y la degradación de los recursos naturales. </p>
+    <ul>
+      <li><strong>Uso positivo:</strong> Modelos para predecir desastres naturales, optimización de consumo energético, control de contaminación.</li>
+      <li><strong>Preocupaciones:</strong> Los grandes modelos como GPT-4 requieren entrenamientos que consumen megavatios de energía durante semanas.</li>
+    </ul>
+  <a href="https://ibb.co/hRDppw95"><img src="https://i.ibb.co/GvcggNpw/IMG-20250603-WA0018.jpg" alt="IMG-20250603-WA0018" width="300" height="500"></a>
+  </section>
+
+  <section>
+    <h2>👥 IA y Derechos Humanos</h2>
+    <p>La Inteligencia Artificial (IA) y los derechos humanos están intrínsecamente ligados. El uso de la IA puede tener un impacto positivo en la promoción y protección de derechos, pero también plantea riesgos que deben ser abordados. La IA puede mejorar la calidad de vida, como la atención médica y la educación, pero también puede vulnerar derechos fundamentales como la privacidad, la libertad de expresión y el derecho a la no discriminación. </p>
+    <p>Las tecnologías de IA deben ser reguladas para proteger los derechos fundamentales:</p>
+    <ul>
+      <li>Evitar <strong>discriminación algorítmica</strong> por género, raza o nivel socioeconómico.</li>
+      <li>Garantizar el <strong>derecho a la privacidad</strong> en sistemas de vigilancia.</li>
+      <li>Asegurar la <strong>transparencia</strong> en decisiones automatizadas como en el ámbito judicial o bancario.</li>
+      <li>Prevenir el <strong>uso militar letal</strong> sin supervisión humana.</li>
+    </ul>
+    <a href="https://ibb.co/BHMWmN5q"><img src="https://i.ibb.co/Y4sn6ZFp/IMG-20250603-WA0019.jpg" alt="IMG-20250603-WA0019"width="300" height="500"></a>
+  </section>
+  <h2>📝 Conclusión</h2>
+    <p>La Inteligencia Artificial ya es parte de nuestras vidas. Está en nuestras casas, teléfonos, hospitales y escuelas. Su desarrollo ofrece grandes oportunidades, pero también plantea desafíos éticos, ambientales y sociales.</p>
+    <p>Debemos impulsar una IA responsable, inclusiva, segura y al servicio de todos los seres humanos.</p>
+    <div class="highlight">"La tecnología por sí sola no basta. También tenemos que ponerle humanidad." – Tim Cook</div>
+  </section>
+
+  <div class="footer">
+    <p>© Proyecto realizado por:</p>
+    <p>Ocampo Rosas Jesús</p>
+    <p>Ramírez Miranda Kevin Edoardo</p>
+    <p>Florez Mateos Ian Zair</p>
+    <p>Rodríguez Sosa Carlos Alberto</p>
+    <p>Sandoval De la Rosa Naomi</p>
+  </div>
+
+</body>
+</html>
